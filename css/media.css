@@ -1,0 +1,361 @@
+@media (max-width: 1199px) {
+  .header_content {
+    min-height: 50vh;
+    align-items: center;
+  }
+
+  header {
+    min-height: 50vh;
+  }
+
+
+}
+
+@media (max-width: 1024px) {}
+
+/* ===================END=============== */
+
+/* ======================= 991 START ======================== */
+
+@media (max-width: 991px) {
+  header {
+    background-position-x: center;
+    background-size: initial;
+  }
+
+  .nav-link {
+    background-color: #1a70bf8c;
+    border-bottom: 1px solid #fff;
+  }
+
+  .header_content {
+    min-height: 40vh;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+  }
+
+  .card_content {
+    min-height: 22rem;
+  }
+
+  .industri_content {
+    margin-top: 68px;
+    min-height: 489px;
+
+  }
+
+  .frequently h1 {
+    text-align: center;
+    font-size: 39px;
+  }
+
+  footer {
+    background-position: bottom;
+    background-size: auto;
+    min-height: 81vh;
+    margin-right: 0 auto;
+
+  }
+
+  .btn_button_f_right {
+    margin-left: 44px;
+    padding: 8px 41px;
+    display: inline-flex;
+  }
+
+  .f_content_two small {
+    margin-top: 131px;
+    font-size: 18px;
+  }
+
+  .footer_content ul li p {
+    color: #fff;
+    font-size: 16px;
+  }
+
+  .Industries {
+    min-height: 95vh;
+
+  }
+
+  .industri_content ul li img {
+    width: 60px;
+  }
+
+  header {
+
+    background-position-x: right;
+    min-height: 77vh;
+    background-size: 64%;
+  }
+
+  .call_wrapper {
+    min-height: 44vh;
+  }
+
+  .call {
+    min-height: 41vh;
+  }
+
+  .call_cantent h1 {
+    font-size: 40px;
+  }
+
+  .hero_content h1 {
+    font-size: 40px;
+
+  }
+}
+
+/* ======================= 991 END ======================== */
+
+/* =======================767 START ======================== */
+
+@media (max-width: 767px) {
+  footer {
+    background-position: bottom;
+    background-size: inherit;
+  }
+
+  .nav-link {
+    background-color: #1a70bf8c;
+    border-bottom: 1px solid #fff;
+  }
+
+  .hero_content {
+    text-align: center;
+  }
+
+  .hero_content h1 {
+    font-size: 46px;
+  }
+
+  header {
+    background-image: none;
+  }
+
+  .call_wrapper {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+
+  .call_cantent {
+    text-align: center;
+  }
+
+  .call_wrapper {
+    min-height: 70vh;
+    align-items: center;
+  }
+
+  .call_pic {
+    width: 90%;
+
+  }
+
+  .card_content {
+    min-height: 30rem;
+    padding: 15px px 20px;
+    padding: 10px 20px;
+  }
+
+  .card_content ul li img {
+    margin-left: -39px;
+  }
+
+  .footer_content h1 {
+    text-align: center;
+    font-size: 38px;
+  }
+
+  .card_content ul li h4 {
+    margin: 0;
+    color: #242424;
+    font-size: 20px;
+  }
+
+  .hero_content {
+    text-align: center;
+    padding: 50px 0;
+  }
+
+  .line-toggle {
+
+    background: #0c63b2;
+
+  }
+
+  button:focus {
+    outline: 0;
+    background: transparent;
+    border: none;
+  }
+
+  .navbar-toggler:hover {
+    text-decoration: none;
+    border: none;
+    outline: none;
+  }
+}
+
+/* ============================END 767 =============== */
+
+
+/* ============================START 575 =============== */
+@media (max-width: 575px) {
+
+  .img-fluid {
+    max-width: 80%;
+  }
+
+  .footer_content ul li p {
+    color: #242424;
+  }
+
+  .hero_content h1 {
+    font-size: 40px;
+    text-align: center;
+  }
+
+  .hero_content p {
+    text-align: center;
+  }
+
+  .header_content {
+    text-align: center;
+  }
+
+  .call_pic {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+  }
+
+  .call_cantent {
+    text-align: center;
+
+  }
+
+  .call_cantent h1 {
+    font-size: 35px;
+  }
+
+  .call_cantent p {
+    line-height: 32px;
+  }
+
+  .card_content {
+    padding: 20px 10px;
+    text-align: center;
+    line-height: 32px;
+
+  }
+
+  .card_content ul li img {
+    width: 95px;
+
+  }
+
+  .card_content ul li h4 {
+    font-size: 18px;
+    margin-left: 20px;
+  }
+
+  .card_content ul li {
+    text-align: start;
+  }
+
+  .get_content {
+    text-align: center;
+  }
+
+  .get_content ul li {
+    margin-left: 10px;
+  }
+
+  .get_content ul h3 {
+    font-size: 19px;
+    margin-bottom: 20px;
+  }
+
+  .get_content ul p {
+    text-align: justify;
+  }
+
+  .Get_start h1 {
+    font-size: 26px;
+  }
+
+  .get_pic img {
+    text-align: center;
+  }
+
+  .Industries h1 span {
+    font-size: 25px;
+  }
+
+  .industri_content {
+    margin-top: 30px;
+  }
+
+  .process_content p {
+    padding: 18px 13px;
+    font-size: 17px;
+  }
+
+  .frequently h1 {
+    text-align: center;
+    line-height: 38px;
+  }
+
+  .accordion h3 {
+    font-size: 18px;
+  }
+
+  .footer_content h1 {
+    text-align: center;
+    font-size: 40px;
+  }
+
+  .footer_content {
+    text-align: center;
+  }
+
+  footer {
+    background-size: inherit;
+    min-height: 68vh;
+    margin: 0;
+    padding: 20px 0;
+  }
+
+  .btn_button_f_right {
+    margin-left: 10px;
+    padding: 3px 25px;
+    display: flex;
+
+  }
+
+  ul li button {
+    background: #338990a3;
+    margin-top: 20px;
+  }
+
+  .industri_content {
+
+    min-height: 350px !important;
+
+  }
+
+  .industri_content ul li img {
+    width: 90px;
+  }
+
+
+
+
+
+
+
+
+}
